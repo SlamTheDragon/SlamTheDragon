@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm SlamTheDragon</h1>
 <h3 align="center">I'm a Freelance Artist, and a Student. Coding is my hobby :D!</h3>
-https://slamthedragon.me/
+<p align="center"> https://slamthedragon.me/</p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=slamthedragon&label=Profile%20views&color=00d5ff&style=flat" alt="slamthedragon" /> </p>
 
