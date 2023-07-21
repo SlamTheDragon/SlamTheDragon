@@ -6,7 +6,8 @@
 
 <p align="center"> <a href="https://twitter.com/SlamTheDragon" target="blank"><img src="https://img.shields.io/twitter/follow/slamthedragon?logo=twitter&style=for-the-badge" alt="slamthedragon" /></a> </p>
 
-- 🔭 I’m currently working on [Minecraft - Creative Studio for Java](https://github.com/SlamTheDragon/Minecraft-Creative-Studio-for-Java), [Filebliz](https://github.com/loybaldo/fileblizz), and [Filebliz Dashboard](https://github.com/SlamTheDragon/filebliz-dashboard)
+- 🔭 I’m currently working on [Minecraft - Creative Studio for Java](https://github.com/SlamTheDragon/Minecraft-Creative-Studio-for-Java), and [Oribot v5](https://github.com/KemanDragon/OriBot)
+- ✨ Projects I've worked on: [Filebliz](https://github.com/loybaldo/fileblizz)
 
 - 🌱 I’m currently learning **C# & ASP.NET**
 
