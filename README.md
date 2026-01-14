@@ -6,10 +6,10 @@
 
 <p align="center"> <a href="https://twitter.com/SlamTheDragon" target="blank"><img src="https://img.shields.io/twitter/follow/slamthedragon?logo=twitter&style=for-the-badge" alt="slamthedragon" /></a> </p>
 
-- 🔭 I’m currently focusing with art and commissions
-- ✨ Projects I've worked on: [Filebliz](https://github.com/loybaldo/fileblizz)
+- 🔭 We're making great systems for VRChat!
+- ✨ Projects I've worked on: [Filebliz]() it was privated :(
 
-- 🌱 I’m currently learning **C# & ASP.NET**
+- 🌱 Still learning **C# & Rust**.....
 
 - ⚡ Fun fact **I like dragons**
 
