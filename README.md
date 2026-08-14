@@ -1,23 +1,31 @@
 <br/>
 <br/>
 <br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
-<center>
-  <h1>
-    Making Something Big
-  </h1>
-  
+
+
+<h1 align="center">
+  Making Something Big
+</h1>
+<p align="center">
+  <strong>
+    Project Origin · Project Heavy Pilots
+  </strong>
   <br/>
   <br/>
-  
-  **[slamthedragon.me](https://slamthedragon.me)**
-  <br/>
+  <a href="https://slamthedragon.me">slamthedragon.me</a> · <a href="https://x.com/slamthedragon">twitter</a>
+</p>
 
-  Project Origin · Project Heavy Pilots
-  
-</center>
-
-
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 <br/>
 <br/>
 <br/>
